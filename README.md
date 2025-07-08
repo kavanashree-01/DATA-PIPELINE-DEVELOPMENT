@@ -37,4 +37,3 @@ Data Handling Automation: The ETL functions can further serve for larger dataset
 
 *OUTPUT:*
 <img width="684" height="633" alt="Image" src="https://github.com/user-attachments/assets/777453df-294e-43f1-b9d3-50c59579f35a" />
-
