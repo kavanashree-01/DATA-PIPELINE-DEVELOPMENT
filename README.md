@@ -29,12 +29,12 @@ The pipeline ensures that transformations stay the same throughout training and 
 Evaluation:
 Test for model accuracy in a set with an outstanding case of 1.00, which in itself demonstrates the competence of the pipeline.
 
-*OUTPUT*:
-<img width="684" height="633" alt="Image" src="https://github.com/user-attachments/assets/777453df-294e-43f1-b9d3-50c59579f35a" />
-
-
 *Applications:*  
 
 ML Prototyping: Quickly set up and evaluate models with standard preprocessing steps.
 
 Data Handling Automation: The ETL functions can further serve for larger datasets or into production workflows.
+
+*OUTPUT*:
+<img width="684" height="633" alt="Image" src="https://github.com/user-attachments/assets/777453df-294e-43f1-b9d3-50c59579f35a" />
+
