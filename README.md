@@ -29,6 +29,8 @@ The pipeline ensures that transformations stay the same throughout training and 
 Evaluation:
 Test for model accuracy in a set with an outstanding case of 1.00, which in itself demonstrates the competence of the pipeline.
 
+
+
 *Applications:*  
 
 ML Prototyping: Quickly set up and evaluate models with standard preprocessing steps.
